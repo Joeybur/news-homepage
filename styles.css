@@ -208,7 +208,7 @@ picture {
   line-height: 1.5;
 }
 
-.intro-article a:hover {
+.main-article a:hover {
   background-color: var(--Very-dark-blue);
   color: var(--Off-white);
   cursor: pointer;
